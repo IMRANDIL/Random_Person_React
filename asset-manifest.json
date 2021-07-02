@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random_Person_React/static/css/main.5921d42c.chunk.css",
+    "main.js": "/Random_Person_React/static/js/main.f8764e71.chunk.js",
+    "main.js.map": "/Random_Person_React/static/js/main.f8764e71.chunk.js.map",
+    "runtime-main.js": "/Random_Person_React/static/js/runtime-main.d3cd0cfd.js",
+    "runtime-main.js.map": "/Random_Person_React/static/js/runtime-main.d3cd0cfd.js.map",
+    "static/js/2.a987e3f1.chunk.js": "/Random_Person_React/static/js/2.a987e3f1.chunk.js",
+    "static/js/2.a987e3f1.chunk.js.map": "/Random_Person_React/static/js/2.a987e3f1.chunk.js.map",
+    "index.html": "/Random_Person_React/index.html",
+    "precache-manifest.ef483801e7ed437e966fac5da58f039e.js": "/Random_Person_React/precache-manifest.ef483801e7ed437e966fac5da58f039e.js",
+    "service-worker.js": "/Random_Person_React/service-worker.js",
+    "static/css/main.5921d42c.chunk.css.map": "/Random_Person_React/static/css/main.5921d42c.chunk.css.map",
+    "static/js/2.a987e3f1.chunk.js.LICENSE.txt": "/Random_Person_React/static/js/2.a987e3f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3cd0cfd.js",
+    "static/js/2.a987e3f1.chunk.js",
+    "static/css/main.5921d42c.chunk.css",
+    "static/js/main.f8764e71.chunk.js"
+  ]
+}
